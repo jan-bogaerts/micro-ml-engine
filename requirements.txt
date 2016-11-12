@@ -1,0 +1,4 @@
+tensorflow
+att_trusted_event_engine
+flask
+flask-api
